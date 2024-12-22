@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XNFSTPKTool", "TPKTool\TPKTool.vcxproj", "{DE01AA75-8FDC-4FEB-90C7-D9F8E1B03536}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNFS_TPKTool_GUI", "XNFS_TPKTool_GUI\XNFS_TPKTool_GUI.csproj", "{5752B19F-FF60-4BC9-9102-25C864F907FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,6 +35,22 @@ Global
 		{DE01AA75-8FDC-4FEB-90C7-D9F8E1B03536}.Release-XDKLibs|x64.Build.0 = Release-XDKLibs|x64
 		{DE01AA75-8FDC-4FEB-90C7-D9F8E1B03536}.Release-XDKLibs|x86.ActiveCfg = Release-XDKLibs|Win32
 		{DE01AA75-8FDC-4FEB-90C7-D9F8E1B03536}.Release-XDKLibs|x86.Build.0 = Release-XDKLibs|Win32
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Debug|x64.Build.0 = Debug|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Debug|x86.Build.0 = Debug|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Debug-XDKLibs|x64.ActiveCfg = Debug|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Debug-XDKLibs|x64.Build.0 = Debug|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Debug-XDKLibs|x86.ActiveCfg = Debug|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Debug-XDKLibs|x86.Build.0 = Debug|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Release|x64.ActiveCfg = Release|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Release|x64.Build.0 = Release|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Release|x86.ActiveCfg = Release|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Release|x86.Build.0 = Release|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Release-XDKLibs|x64.ActiveCfg = Debug|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Release-XDKLibs|x64.Build.0 = Debug|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Release-XDKLibs|x86.ActiveCfg = Debug|Any CPU
+		{5752B19F-FF60-4BC9-9102-25C864F907FD}.Release-XDKLibs|x86.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
