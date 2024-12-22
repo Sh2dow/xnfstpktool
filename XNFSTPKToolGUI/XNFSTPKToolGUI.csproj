@@ -6,6 +6,10 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <UseWPF>true</UseWPF>
+        <RootNamespace>XNFS_TPKTool_GUI</RootNamespace>
+        <AssemblyName>XNFS_TPKTool_GUI</AssemblyName>
+        <Configurations>Release;Debug</Configurations>
+        <Platforms>x64</Platforms>
     </PropertyGroup>
 
 </Project>
